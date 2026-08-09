@@ -1,6 +1,7 @@
 # rfm-customer-segmentation — RFM 기반 고객 세그먼트 분석
 
 > 개인 프로젝트 · 전 과정 담당 (SQL 데이터 추출 · RFM 분석 · 세그먼트 설계 · 액션 제안)
+> 
 > 데이터: UCI Online Retail (영국 온라인 리테일 거래) · 도구: SQL (SQLite), Python (pandas, matplotlib)
 
 > **스냅샷에서 멈추지 않는다.**
